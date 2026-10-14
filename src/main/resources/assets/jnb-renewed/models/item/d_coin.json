@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jnb-renewed:item/d_coin"
+  }
+
+}
